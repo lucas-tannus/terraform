@@ -1,5 +1,5 @@
 # Terraform
-The goal of this repository it's apply terraform's knowledge.
+The goal of this repository it's apply Terraform's knowledge.
 
 ## Setting AWS Provider
 AWS credentials can be provided by using the `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` environment variables. Also, the region can be set using the `AWS_REGION` environment variable.
